@@ -30,7 +30,7 @@ Before running the script, ensure you have the following installed:
 1.  **Clone the repository (or download the script):**
 
     ```bash
-    git clone [https://github.com/your-username/instagram-auto-unfollow.git](https://github.com/your-username/instagram-auto-unfollow.git)
+    git clone https://github.com/Yokminasai/InstagramUnfollower.git
     cd instagram-auto-unfollow
     ```
 
@@ -49,7 +49,7 @@ Before running the script, ensure you have the following installed:
 1.  **Run the script:**
 
     ```bash
-    python your_script_name.py
+    python main.py
     ```
 
     (Replace `your_script_name.py` with the actual name of your Python file, e.g., `instagram_bot.py`)
